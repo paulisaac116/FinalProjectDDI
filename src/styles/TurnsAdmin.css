@@ -1,0 +1,43 @@
+.purple-button{
+
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    background-color: #636EC3;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, 0.6);
+}
+.button-edit{
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    background-color: #4dbb78;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, 0.6);
+}
+.ub-button{
+
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    background-color: #3A438B;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, 0.6);
+
+}
+.purple-button:hover {
+    text-decoration: none;
+    background: #535b94;
+}
+.button:hover{
+    background-color: #407956;
+}
+.ub-button:hover{
+    background-color: #4d57ad;
+}

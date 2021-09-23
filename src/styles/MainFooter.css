@@ -1,0 +1,39 @@
+.main-footer {
+  background-color: #4dbb78;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 1px;
+}
+h1 {
+  color: floralwhite;
+  font-size: 20px;
+}
+
+.main-footer h1 {
+  font-size: 25px;
+}
+
+.main-footer p {
+  font-size: 20px;
+  margin: 0;
+}
+
+.main-footer p a {
+  color: white;
+}
+.main-footer span svg {
+  color: white;
+  margin-right: 10px;
+}
+
+.main-footer__social-media {
+  display: flex;
+}
+
+.main-footer__social-media--icon {
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+}

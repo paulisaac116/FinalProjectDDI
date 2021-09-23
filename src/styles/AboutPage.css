@@ -1,0 +1,69 @@
+.imagenFondo {
+  background-image: url("../images/futAcercade.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.headerAboutPage {
+  height: 100px;
+  background-color: #2f2e2e;
+}
+.headerAboutPage img {
+  margin-top: 20px;
+}
+.ContentCoursesOffered h1 {
+  color: white;
+  font-size: 3em;
+}
+.ContentCoursesOffered .ant-col-12 {
+  display: flex;
+  flex: 0 0 50%;
+  max-width: 50%;
+  justify-content: end;
+  margin-top: 20px;
+  padding-right: 50px;
+}
+.headerAboutPage h2 {
+  margin-left: 300px;
+  margin-top: 20px;
+}
+
+.heder {
+  height: 110px;
+  background-color: #2f2e2e;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 80px;
+  padding-right: 80px;
+  box-shadow: 0 15px 5px rgba(0, 0, 0, 0.5);
+  position: relative;
+  z-index: 500;
+}
+.containercard {
+  font-weight: 700;
+  color: white;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.containercard .ant-card-bordered {
+  border-radius: 25px;
+  width: 350px;
+  height: 300px;
+  background-color: #4d59bb;
+  color: #ffffff;
+  border-color: #4d59bb;
+}
+.containercard h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+.containercard p {
+  font-size: 1.3em;
+}
+.containercard .ant-row {
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}

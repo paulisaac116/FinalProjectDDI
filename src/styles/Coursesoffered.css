@@ -1,0 +1,25 @@
+.HeaderCoursesOffered {
+    background-color: #000000;
+    color: white;
+    border-bottom: 8px solid;
+    border-color: #3A438D;
+}
+.HeaderCoursesOffered h1{
+    color: white;
+    font-size: 3em;
+}
+.HeaderCoursesOffered .ant-col-12 {
+    display: flex;
+    flex: 0 0 50%;
+    max-width: 50%;
+    justify-content: end;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+.ContentCoursesOffered h1{
+    font-size: 2em;
+    margin-top: 20px;
+}
+.ContentCoursesOffered p{
+    font-size: 1.2em;
+}
